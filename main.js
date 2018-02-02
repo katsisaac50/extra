@@ -1,4 +1,4 @@
-const button = document.querySelector('btn');
+const button = document.querySelector('#btn');
 
 function reqListener(event) {
     //console.log(this.responseText);
